@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "f8338e1185cf7dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eebebbf550a7502",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Deep learning book conspect/1 part.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72a5b10d0071dbe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae0b40dfad51d0a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e14545765e7ff870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5756d610c2559ad6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 194
+  },
+  "right": {
+    "id": "515e62651af07f47",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba2c9526ad5c9c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37528d197f5d11db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deep learning book conspect/1 part.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0243134fe13b0a58",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "77e6b7568f8bd404",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6eebebbf550a7502",
+  "lastOpenFiles": [
+    "Основы DL made/Лекция 4.md",
+    "Основы DL made/Лекция 6.md",
+    "Основы DL made/Лекция 2.md",
+    "Основы DL made/Лекция 1.md",
+    "CV/Лекция 2(классификация).md",
+    "CV/Лекция 1(аугментации).md",
+    "Радары/FMCW радары(непрерывное излучение с частотной модуляцией).md",
+    "Радары/Использование complex-baseband архитектуры в FMCW radar.md",
+    "Без названия.md",
+    "Радиолокация.md"
+  ]
+}

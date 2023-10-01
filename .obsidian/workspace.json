@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "f8338e1185cf7dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "34efb7853c4b8c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eebebbf550a7502",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "50686455745154ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72a5b10d0071dbe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae0b40dfad51d0a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e14545765e7ff870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5756d610c2559ad6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed2d26f5f3d8e452",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 479.5
+  },
+  "right": {
+    "id": "515e62651af07f47",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba2c9526ad5c9c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37528d197f5d11db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0243134fe13b0a58",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "77e6b7568f8bd404",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
+    }
+  },
+  "active": "6eebebbf550a7502",
+  "lastOpenFiles": [
+    "Радары/FMCW радары(непрерывное излучение с частотной модуляцией).md",
+    "advanced_ML(Николенко)/Конспект 1.md",
+    "Big_data_practicum/Лекция 1.md",
+    "Deep learning book conspect/1 part.md",
+    "advanced_ML(Николенко)/Adv_Ml (Николенко).md",
+    "Pasted image 20220428162224.png.md",
+    "Без названия.canvas",
+    "Intro to deep lerning.md",
+    "Фильтр Калмана/Статья Как работает фильтр калмана.md",
+    "Stepic_Нейронные_сети/Курс нейронные сети на степике.md",
+    "Stepic_Нейронные_сети/нейрон.png",
+    "Stepic_Нейронные_сети/algo1.png",
+    "Stepic_Нейронные_сети/Pasted image 20220125061556.png",
+    "stepic_neural_networks_public-master/stepic_neural_networks_public-master/README.md",
+    "stepic_neural_networks_public-master/stepic_neural_networks_public-master/files/apples.jpg",
+    "Радиолокация.md",
+    "Собесы_и_подготовка_к_ним_джун/Теория DL (Вопросы).md",
+    "Собесы_и_подготовка_к_ним_джун/Топ 50 вопросов по ML.md",
+    "Собесы_и_подготовка_к_ним_джун/Pasted image 20220601030137.png",
+    "Собесы_и_подготовка_к_ним_джун/Pasted image 20220602023952.png",
+    "Собесы_и_подготовка_к_ним_джун/Pasted image 20220601030611.png",
+    "Собесы_и_подготовка_к_ним_джун/Pasted image 20220602021652.png",
+    "CV/Лекция 4 (детекция).md",
+    "Обработка звука/Лекция 2.md",
+    "Обработка звука/Лекция 1.md",
+    "Обработка звука/Pasted image 20220317082949.png",
+    "Обработка звука/Pasted image 20220317081826.png",
+    "Обработка звука/Обработка звука.md",
+    "made.md",
+    "django.md",
+    "DeepLerningBook конспект.md",
+    "Радары/Использование complex-baseband архитектуры в FMCW radar.md",
+    "Optimization and regularization in Deep Learning.md",
+    "Основы DL made/Лекция 2.md",
+    "Основы DL made/Лекция 1.md",
+    "Основы DL made/Лекция 4.md",
+    "Основы DL made/Лекция 5.md"
+  ]
+}
